@@ -18,6 +18,8 @@ washington.csv
 ### Credits
 Thanks to all the udacity instructors!!
 
+Thanks to AT&T & Brandon for supporting my education!!!
+
 ## References used for python project
 
 Pandas reference
