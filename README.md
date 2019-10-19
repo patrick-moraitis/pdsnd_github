@@ -2,7 +2,7 @@
 Friday October 18, 2019
 
 ### Project Title
-Patrick Moraitis Udacity Git & Python project
+Patrick Moraitis Udacity Git & Python bikeshare data project
 
 ### Description
 Analysis for bike share data
