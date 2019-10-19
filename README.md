@@ -7,6 +7,8 @@ Patrick Moraitis Udacity Git & Python project
 ### Description
 Analysis for bike share data
 
+User inputs the city, month and day filters and gets back various descriptive statistics. 
+
 ### Files used
 patrick_moraitis_python_project.py
 chicago.csv
